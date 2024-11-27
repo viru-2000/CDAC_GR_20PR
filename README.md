@@ -63,6 +63,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+Git Command :
+//switch branch 
+git checkout branch name
+
+//pull code from main branch everday if  changes are done by other member updated 
+git pull origin main
+
+//for pushing the code to branch
+git push --set-upstream origin branch name
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
